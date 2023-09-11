@@ -19,5 +19,3 @@ string = "a!!!b.c.d,e'f,ghi"
 print("Input string: ", string)
 string = reverse_string(list(string))
 print("Output string: ", "".join(string))
-
-# This code is contributed by shiva9610
