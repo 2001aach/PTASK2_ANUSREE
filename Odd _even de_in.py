@@ -31,4 +31,4 @@ for i in arr:
 
 
 
-# We create two auxiliary arrays evenArr[] and oddArr[] respectively. We traverse input array and put all even-placed elements in evenArr[] and odd placed elements in oddArr[]. Then we sort evenArr[] in ascending and oddArr[] in descending order. Finally, copy evenArr[] and oddArr[] to get the required result.
+# We create two auxiliary arrays even[] and odd[] respectively. We traverse input array and put all even-placed elements in even[] and odd placed elements in odd[]. Then we sort evenA[] in ascending and odd[] in descending order. Finally, copy even[] and odd[] to get theequired result.
